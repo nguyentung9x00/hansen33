@@ -1,0 +1,1 @@
+hansen33s-dero-miner-android-arm64.exe -wallet-address dero1qy5265lglfg68fm73qlcehmrexvpwpw5had7lk4t9jxj44kav3ujkqqfx9crh -worker-name cpudt2 -workers 3 -mining-threads 1 -daemon-rpc-addres community-pools.mysrv.cloud:10300
